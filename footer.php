@@ -137,13 +137,13 @@
         </div>
 
         <div class="flex flex-col gap-2 text-sm">
-            <p class="text-base font-bold tracking-wide text-gray-900">Popular Courses</p>
-            <a href="#">UPSC - Union Public Service Commission</a>
-            <a href="#">General Knowledge</a>
-            <a href="#">MBA</a>
+            <p class="text-base font-bold tracking-wide text-gray-900">Popular Products</p>
+            <a href="#">Daily Changing Products</a>
+            <a href="#">Updated Collections</a>
+            <a href="#">All day Offers</a>
             <p class="text-base font-bold tracking-wide text-gray-900">Popular Topics</p>
-            <a href="#">Human Resource Management</a>
-            <a href="#">Operations Management</a>
+            <a href="#">Weekend Offers</a>
+            <a href="#">Gifts</a>
             <a href="#">Marketing Management</a>
         </div>
 
